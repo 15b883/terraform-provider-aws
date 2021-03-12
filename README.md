@@ -1,4 +1,4 @@
-# tf_aws_module
+# tf_aws_lab
 
 ## 目录
 
@@ -10,9 +10,6 @@
 | resource.tf      | 资源定义                   |
 | data.tf          | 包文件定义                 |
 | output.tf        | 输出                       |
-
-
-
 
 
 ## 基础命令
@@ -44,17 +41,4 @@ terraform destroy
 terraform workspace select QA
 ```
 
-
-
-## 初始化报错
-
-![image-20200916174143270](./images/image-20200916174143270.png)
-
-https://releases.hashicorp.com/terraform-provider-aws/2.70.0/
-
-找到自己系统对应的插件 下载好了之后运行 
-
-```shell
-terraform init -plugin-dir=/opt/terraform/plugins
-```
-
+更多文档请看 https://www.cnblogs.com/syavingcs/
