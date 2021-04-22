@@ -2,9 +2,9 @@
 
 * [简介](README.md)
 
-* [初始化](/tf_basic_1.md)
+* [初始化](/tfinit.md)
 
-* [变量](/tf_basic_2.md)
+* [变量](/tfvalue.md)
 
 * [命令](/command.md)  
 
