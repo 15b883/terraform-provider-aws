@@ -230,8 +230,3 @@ public_ip = "18.183.127.183"
 # terraform output public_ip
 18.183.127.183
 ```
-
-
-
-
-

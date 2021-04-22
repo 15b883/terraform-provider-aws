@@ -483,4 +483,3 @@ aws_instance.example: Destruction complete after 42s
 
 Destroy complete! Resources: 1 destroyed.
 ```
-
